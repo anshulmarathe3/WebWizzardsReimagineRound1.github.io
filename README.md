@@ -27,7 +27,7 @@ The current website, while functional, does not fully capture the essence of the
 - Contact form for customer inquiries
 - Information about Haldiram's history and values
 
-## Technologies Used
+## Technologies Used 
 
 - **HTML**: Structure of the website
 - **CSS**: Styling and layout
