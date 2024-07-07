@@ -43,6 +43,18 @@ p{
   line-height: 1.75rem;
   text-align: center;
 }
+.social-icon {
+            font-size: 2rem; /* Adjust the size as needed */
+        }
+        .btn-floating {
+            width: 60px; /* Adjust the size as needed */
+            height: 60px; /* Adjust the size as needed */
+            padding: 12px; /* Adjust the padding */
+            line-height: 36px; /* Adjust the line height to center the icon */
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
 
 .btn {
   padding: 0.75rem 1.5rem;
