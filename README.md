@@ -12,7 +12,7 @@ Welcome to the Haldiram's website project! Our team, Web Wizzards, is passionate
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [License](#license)
-- [Team Memebers](#teammembers)
+- [Team Memebers](#team-members)
 
 ## Introduction
 Haldiram is a renowned brand that has been delighting customers with a wide range of traditional Indian sweets, snacks, and savory products for decades. As a beloved household name, Haldiram stands for quality, authenticity, and a rich culinary heritage.
@@ -52,7 +52,7 @@ To set up this project locally, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Team Members
+## Team Members (Web-Wizzards)
 
 We would like to thank everyone who contributed to this project and Haldiram's for their inspiration.
 - Om Mehkar
