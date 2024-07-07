@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Haldiram's website project! This project aims to create a fully functional and responsive website for Haldiram's using HTML, CSS, and JavaScript. Our goal is to provide an engaging and user-friendly online presence for Haldiram's, showcasing their products, history, and other relevant information.
+Welcome to the Haldiram's website project! Our team, Web Wizzards, is passionate about creating an engaging and user-friendly website that not only highlights Haldiram's rich heritage but also provides a seamless experience for its customers. Our redesign focuses on modern aesthetics, improved navigation, and enhanced functionality to elevate Haldiram's online presence.
 
 ## Table of Contents
 
@@ -76,7 +76,7 @@ We welcome contributions to enhance this project! To contribute, follow these st
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Team Members
 
 We would like to thank everyone who contributed to this project and Haldiram's for their inspiration.
 - Om Mehkar
