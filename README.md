@@ -57,7 +57,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 We would like to thank everyone who contributed to this project and Haldiram's for their inspiration.
 - Om Mehkar
 - Gaurang Jodh
-- Aqib Diwan
+- Mohammad Aqib Diwan
 - Anshul Marathe
 
 Feel free to reach out if you have any questions or suggestions. Happy coding!
