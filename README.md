@@ -10,7 +10,7 @@ Welcome to the Haldiram's website project! Our team, Web Wizzards, is passionate
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Installation](#installation) 
 - [License](#license)
 - [Team Memebers](#team-members)
 
